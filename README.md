@@ -99,3 +99,6 @@ Launch Your Career in Cloud Computing. Master strategies and tools to become pro
 * [Subscribe to the Pragmatic AI Labs YouTube Channel (New Content Weekly)](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)  
 
 ⚡ Fun facts: I was as a bouncer in college with former UFC Champion Chuck Liddell.  Early in my career I worked on the [movie Avatar while living in New Zealand](https://www.imdb.com/name/nm2104112/?ref_=fn_al_nm_1).  I used to play basketball with Adam Sandler at lunch when I worked at Sony Imageworks in Los Angeles, CA.
+
+1. Create python virual environment python3 -m venv ~/.venv OR virtualenv ~/.venv
+2. Create emptyfiles Makefile, main.py, logic.py __init__.py, Dockerfile
